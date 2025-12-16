@@ -27,21 +27,21 @@ export const LOCATIONS: LocationInfo[] = [
     description: 'Capital comercial. Acceso por variante La Romelia-El Pollo si vienes de Manizales o directo por Autopista del Café.',
     activities: ['Termales Santa Rosa', 'Bioparque Ukumarí', 'Santuario Otún Quimbaya'],
     climate: 'Día: 26°C / Noche: 17°C',
-    image: 'https://picsum.photos/id/10/800/600'
+    image: 'https://images.unsplash.com/photo-1625601959723-5e985114e966?q=80&w=800&auto=format&fit=crop'
   },
   {
     name: 'Armenia (Quindío)',
     description: 'Punto de llegada directo bajando La Línea. Ideal para visitar el Parque del Café y Salento.',
     activities: ['Salento', 'Filandia', 'Parque del Café', 'Jardín Botánico'],
     climate: 'Día: 26°C / Noche: 17°C',
-    image: 'https://picsum.photos/id/11/800/600'
+    image: 'https://images.unsplash.com/photo-1598556776374-2c63eb13251a?q=80&w=800&auto=format&fit=crop'
   },
   {
     name: 'Manizales (Caldas)',
     description: 'Ciudad de puertas abiertas. Si tomas la ruta de Letras, llegarás directo aquí.',
     activities: ['Nevado del Ruiz', 'Hacienda Venecia', 'Catedral Basílica'],
     climate: 'Día: 19°C / Noche: 12°C',
-    image: 'https://picsum.photos/id/12/800/600'
+    image: 'https://images.unsplash.com/photo-1591523315797-29367d3b2a26?q=80&w=800&auto=format&fit=crop'
   }
 ];
 

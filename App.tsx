@@ -105,7 +105,7 @@ function App() {
               {/* Hero */}
               <div className="relative rounded-3xl overflow-hidden shadow-2xl h-[400px] md:h-[500px]">
                 <img 
-                  src="https://picsum.photos/seed/coffeevalley/1600/900" 
+                  src="https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?q=80&w=1600&auto=format&fit=crop" 
                   alt="Valle del Cocora" 
                   className="w-full h-full object-cover"
                 />
@@ -228,8 +228,8 @@ function App() {
                     </div>
                   </div>
                   <div className="grid grid-cols-2 gap-4">
-                    <img src="https://picsum.photos/seed/coffee/400/500" className="rounded-2xl transform translate-y-8" alt="Coffee" />
-                    <img src="https://picsum.photos/seed/palms/400/500" className="rounded-2xl transform -translate-y-8" alt="Palms" />
+                    <img src="https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?q=80&w=400&auto=format&fit=crop" className="rounded-2xl transform translate-y-8" alt="Coffee" />
+                    <img src="https://images.unsplash.com/photo-1598980838080-b2861c8f000b?q=80&w=400&auto=format&fit=crop" className="rounded-2xl transform -translate-y-8" alt="Palms" />
                   </div>
                 </div>
               </section>
